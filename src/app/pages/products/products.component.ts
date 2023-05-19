@@ -70,3 +70,6 @@ export class ProductsComponent  implements OnInit {
   }
 
 }
+
+
+//David Saquinga

@@ -26,3 +26,6 @@ import { RouterModule } from '@angular/router';
   ]
 })
 export class PagesModule { }
+
+
+//David Saquinga

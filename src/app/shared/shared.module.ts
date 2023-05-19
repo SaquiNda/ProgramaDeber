@@ -28,3 +28,6 @@ import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
 ]
 })
 export class SharedModule { }
+
+
+//David Saquinga
